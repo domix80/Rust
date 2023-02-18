@@ -42,6 +42,7 @@ mod tests {
             assert!(ve2[i] <= ve2[i + 1]);
         }
     }
+    
     #[test]
     fn duplicates() {
         //pre-sorted
